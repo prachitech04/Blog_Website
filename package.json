@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "blogwebsite": "nodemon server.js"
+    "blogwebsite": "nodemon server.js",
+      "build": "your-build-command"
+    
+    
   },
   "author": "",
   "license": "ISC",
